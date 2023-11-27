@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AravindSelvan
+- 👋 Hi, I’m @AravindS2006
 - 👀 I’m interested in Artificial Intelligence , Machile learning , programing in Python , Graphic designing
 - 🌱 I’m currently learning Batchelor of Engineering
 - 💞️ I’m looking to collaborate on any tech based project ideas.
