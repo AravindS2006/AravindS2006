@@ -6,14 +6,14 @@ I'm passionate about the intersection of technology, creativity, and innovation.
 ### 🔍 What I'm Interested In:
 
 - **Programming & Development**:
-  - ![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)
-  - ![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus)
-  - ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-  - ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=nodedotjs)
-  - ![React.js](https://img.shields.io/badge/-React.js-333?style=flat&logo=react)
-  - ![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=html5)
-  - ![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3)
+  - ![C](https://img.shields.io/badge/-C-333?style=plastic&logo=c)
+  - ![C++](https://img.shields.io/badge/-C++-333?style=plastic&logo=cplusplus)
+  - ![Python](https://img.shields.io/badge/-Python-333?style=plastic&logo=python)
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=plastic&logo=javascript)
+  - ![Node.js](https://img.shields.io/badge/-Node.js-333?style=plastic&logo=nodedotjs)
+  - ![React.js](https://img.shields.io/badge/-React.js-333?style=plastic&logo=react)
+  - ![HTML](https://img.shields.io/badge/-HTML-333?style=plastic&logo=html5)
+  - ![CSS](https://img.shields.io/badge/-CSS-333?style=plastic&logo=css3)
 
 - **Artificial Intelligence & Machine Learning**:
   - Developing AI/ML models to solve real-world problems
