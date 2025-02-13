@@ -14,6 +14,7 @@ I'm passionate about the intersection of technology, creativity, and innovation.
   - ![React.js](https://img.shields.io/badge/-React.js-333?style=plastic&logo=react)
   - ![HTML](https://img.shields.io/badge/-HTML-333?style=plastic&logo=html5)
   - ![CSS](https://img.shields.io/badge/-CSS-333?style=plastic&logo=css3)
+  - ![CLOUD COMPUTING](https://img.shields.io/badge/-CLOUD%20COMPUTING-333?style=plastic&logo=GOOGLECLOUD)
 
 - **Artificial Intelligence & Machine Learning**:
   - Developing AI/ML models to solve real-world problems
