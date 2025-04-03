@@ -47,7 +47,7 @@ I'm also a trader, using my coding skills to develop and optimize trading bots.
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AravindS2006&show_icons=true&theme=cobalt)
 
 ## 🏆 GitHub Trophies:
-![trophy](https://github-profile-trophy.vercel.app/?username=AravindS2006&theme=cobalt)
+![trophy](https://github-profile-trophy.vercel.app/?username=AravindS2006&theme=dark)
 
 ## 🎨 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AravindS2006&layout=compact&theme=cobalt)
