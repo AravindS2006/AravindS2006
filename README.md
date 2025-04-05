@@ -36,7 +36,7 @@ I'm passionate about the intersection of technology, creativity, and innovation.
 - Email: aravindselvan2006@gmail.com
 - LinkedIn: [[My LinkedIn Profile]](https://www.linkedin.com/in/aravindselvan-c-a60992278/)
 - Twitter: [[My Twitter Handle]](https://x.com/Aravindfx369)
-- Personal Website: [[My Personal Website]](http://scoopthemes.com/templates/Coming-Soon/)
+- Personal Website: [[My Personal Website]](https://aravind-portfolio-livid.vercel.app/)
 
 ### 🌟 Fun Fact:
 I'm also a trader, using my coding skills to develop and optimize trading bots.
