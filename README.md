@@ -55,11 +55,8 @@ I enjoy turning ideas into production-ready applications with strong focus on **
 ---
 
 ## 🛠️ Tech Stack
-**Languages:** TypeScript, Python, JavaScript  
-**Frontend:** React, Next.js, Tailwind CSS  
-**Backend:** Node.js, API development, automation scripting  
-**AI/ML:** Applied ML experimentation, LLM/RAG workflows, model evaluation  
-**Tools:** Git, GitHub, VS Code, deployment workflows
+**Languages:** Python, C++, Java, JavaScript    
+**Tools:** Git, GitHub, VS Code, claude code, antigravity, vercel, cursor AI
 
 ---
 
@@ -80,7 +77,7 @@ I’m actively preparing for **Software Developer roles** and looking to contrib
 - GitHub: [@AravindS2006](https://github.com/AravindS2006)
 - LinkedIn: [Aravind Selvan](https://www.linkedin.com/in/aravindselvan-c-a60992278/)
 - Email: aravindselvan2006@gmail.com
-- Portfolio: [aravind-portfolio-livid.vercel.app](https://aravind-portfolio-livid.vercel.app/)
+- Portfolio: [aravindselvan.vercel.app](https://aravindselvan.vercel.app/)
 
 ---
 
