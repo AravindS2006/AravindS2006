@@ -1,85 +1,87 @@
-# 👋 Hi there, I'm AravindSelvan!
+# Hi, I'm Aravind S 👋
 
-## 🚀 About Me:
-I'm passionate about the intersection of technology, creativity, and innovation. My interests span across various domains, and I'm always eager to explore new challenges and opportunities.
+### Software Developer | Full-Stack Builder | AI & Systems Enthusiast
 
-### 🔍 What I'm Interested In:
-
-- **Programming & Development**:
-  - ![C](https://img.shields.io/badge/-C-333?style=plastic&logo=c)
-  - ![C++](https://img.shields.io/badge/-C++-333?style=plastic&logo=cplusplus)
-  - ![Python](https://img.shields.io/badge/-Python-333?style=plastic&logo=python)
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=plastic&logo=javascript)
-  - ![Node.js](https://img.shields.io/badge/-Node.js-333?style=plastic&logo=nodedotjs)
-  - ![React.js](https://img.shields.io/badge/-React.js-333?style=plastic&logo=react)
-  - ![HTML](https://img.shields.io/badge/-HTML-333?style=plastic&logo=html5)
-  - ![CSS](https://img.shields.io/badge/-CSS-333?style=plastic&logo=css3)
-  - ![CLOUD COMPUTING](https://img.shields.io/badge/-CLOUD%20COMPUTING-333?style=plastic&logo=GOOGLECLOUD)
-
-- **Artificial Intelligence & Machine Learning**:
-  - Developing AI/ML models to solve real-world problems
-  - Building intelligent systems that learn and adapt
-
-- **Graphic Designing**:
-  - Creating visually appealing designs
-  - Blending art and technology to communicate ideas
-
-- **Electronics**:
-  - Exploring the world of embedded systems
-  - Combining hardware and software for innovative solutions
-
-- **Trading & Automation**:
-  - Coding trading bots to automate trading strategies
-  - Leveraging technology for smarter investments
-
-### 📫 How to Reach Me:
-- Email: aravindselvan2006@gmail.com
-- LinkedIn: [[My LinkedIn Profile]](https://www.linkedin.com/in/aravindselvan-c-a60992278/)
-- Twitter: [[My Twitter Handle]](https://x.com/Aravindfx369)
-- Personal Website: [[My Personal Website]](https://aravind-portfolio-livid.vercel.app/)
-
-### 🌟 Fun Fact:
-I'm also a trader, using my coding skills to develop and optimize trading bots.
+I build practical software products that solve real user problems — from student productivity platforms to intelligent automation and applied ML systems.  
+I enjoy turning ideas into production-ready applications with strong focus on **clean architecture, performance, and usability**.
 
 ---
 
-## 📊 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AravindS2006&show_icons=true&theme=cobalt)
+## 🚀 What I Focus On
+- Building end-to-end web applications with modern TypeScript stacks
+- Designing real-world AI/ML powered workflows
+- Writing maintainable backend logic and scalable APIs
+- Creating user-first products with measurable utility
 
-## 🏆 GitHub Trophies:
-![trophy](https://github-profile-trophy.vercel.app/?username=AravindS2006&theme=onedark)
+---
 
-## 🎨 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AravindS2006&theme=cobalt)
+## 🧩 Highlight Projects
 
-## 🔥 GitHub Streak Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AravindS2006&theme=dark)
+### 1) [edumate](https://github.com/AravindS2006/edumate)
+**Student Dashboard (Mobile-first Product)**  
+- Built a practical dashboard experience optimized for student workflows  
+- Focused on responsive UI, fast load times, and usability  
+- Demonstrates product thinking + full-stack implementation
 
+### 2) [Tradenza](https://github.com/AravindS2006/Tradenza)
+**Reinforcement AI Trading Model (XAUUSD)**  
+- Worked on applied ML pipeline for market behavior modeling  
+- Implemented experimentation around strategy logic and evaluation  
+- Demonstrates analytical depth and systems-level thinking
 
-<!---
-# Hi there, I'm AravindSelvan 👋
+### 3) [online-attendance-marker](https://github.com/AravindS2006/online-attendance-marker)
+**Automation-Focused Utility Tool**  
+- Built a practical automation solution for repetitive workflows  
+- Focused on reliability, error handling, and ease of use  
+- Demonstrates scripting + product utility mindset
 
-### 👀 I'm interested in Artificial Intelligence, Machine Learning, Programming in Python, Graphic Designing.
-### 🌱 I'm currently learning Bachelor of Engineering.
-### 💬 Ask me about any tech-based project ideas.
-### 📫 How to reach me: aravindselvan2006@gmail.com
+### 4) [Lumina3D](https://github.com/AravindS2006/Lumina3D)
+**3D/Visualization-Oriented Technical Project**  
+- Explored rendering/data visualization workflows in Python  
+- Built features emphasizing experimentation and performance  
+- Demonstrates curiosity-driven engineering and implementation skills
 
-## 🚀 Skills & Tools:
-- ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-- ![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus)
-- ![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=html5)
-- ![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-- ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+### 5) [ghibli-art-generator](https://github.com/AravindS2006/ghibli-art-generator)
+**Creative AI Project (Customized by Me)**  
+- Extended and improved project functionality beyond initial base  
+- Contributed implementation-level changes and UI/logic improvements  
+- Demonstrates hands-on ownership and iterative development
 
-## 📊 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AravindS2006&show_icons=true&theme=dark)
+### 6) [my-portfolio](https://github.com/AravindS2006/my-portfolio)
+**Personal Engineering Portfolio**  
+- Built and maintained to showcase projects, skills, and growth  
+- Focused on clean frontend architecture and developer branding
 
-## 🏆 GitHub Trophies:
-![trophy](https://github-profile-trophy.vercel.app/?username=AravindS2006&theme=onedark)
---->
+---
 
-<!---
-AravindS2006/AravindS2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ Tech Stack
+**Languages:** TypeScript, Python, JavaScript  
+**Frontend:** React, Next.js, Tailwind CSS  
+**Backend:** Node.js, API development, automation scripting  
+**AI/ML:** Applied ML experimentation, LLM/RAG workflows, model evaluation  
+**Tools:** Git, GitHub, VS Code, deployment workflows
+
+---
+
+## 📈 What I Bring
+- Strong ownership: I build and ship complete projects  
+- Problem-solving mindset: I optimize for practical outcomes  
+- Fast learner: I adapt quickly across domains and stacks  
+- Team-friendly engineering: readable code, modular design, clear documentation
+
+---
+
+## 🎯 Current Goal
+I’m actively preparing for **Software Developer roles** and looking to contribute to teams building meaningful, scalable software products.
+
+---
+
+## 🤝 Connect
+- GitHub: [@AravindS2006](https://github.com/AravindS2006)
+- LinkedIn: [Aravind Selvan](https://www.linkedin.com/in/aravindselvan-c-a60992278/)
+- Email: aravindselvan2006@gmail.com
+- Portfolio: [aravind-portfolio-livid.vercel.app](https://aravind-portfolio-livid.vercel.app/)
+
+---
+
+> “Build useful things. Keep improving. Ship with quality.”
