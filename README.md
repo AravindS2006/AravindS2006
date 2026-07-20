@@ -1,4 +1,4 @@
-# Hi, I'm Aravind S 👋
+# Hi, I'm Aravindselvan 👋
 
 ### Software Developer | Full-Stack Builder | AI & Systems Enthusiast
 
